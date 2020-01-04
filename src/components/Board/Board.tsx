@@ -5,6 +5,7 @@ function Board() {
   return (
     <Box>
       <Typography>Game Board</Typography>
+      <Box></Box>
     </Box>
   );
 }
